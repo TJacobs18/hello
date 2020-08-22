@@ -13,5 +13,10 @@
 
      printf("Undeclared\n");
 
+     
+     printf("Alex Herman!\n");
+
+     printf("Computer Science\n");
+
      return 0;
  }
